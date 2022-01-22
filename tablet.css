@@ -1,0 +1,99 @@
+.main__title {
+    font-size: medium;
+}
+
+.hebergements__container {
+    column-gap: 10px;
+}
+
+.hebergements__container__left {
+    width: 55%;
+}
+
+.hebergements__container__left__galery {
+    row-gap: 15px;
+}
+
+.hebergements__container__left__galery__child {
+    width: 180px;
+}
+
+.hebergements__container__left__galery__child img {
+    height: 95px;
+}
+
+.hebergements__container__left__galery__text {
+    font-size: small;
+}
+
+.popular__title {
+    font-size: medium;
+}
+
+.hebergements__container__right {
+    width: 30%;
+}
+
+.hebergements__container__right__galery__child {
+    width: 245px;
+    height: 135px;
+}
+
+.hebergements__container__right__galery_center {
+    margin: 0;
+}
+
+.hebergements__container__right__galery__child img {
+    width: 40%;
+    height: auto;
+}
+
+.hebergements__container__right__galery__text {
+    margin-left: 5px;
+    font-size: smaller;
+    justify-content: flex-start;
+}
+
+.hebergements__container__more {
+    margin-left: 15px;
+}
+
+.activites__container {
+    height: 480px;
+}
+
+.activites__container_child h3 {
+    font-size: small;
+}
+
+.star-rate-mt20 {
+    margin-top: 0;
+}
+
+.ml-100 {
+    margin-left: 50px;
+}
+
+.footer_container {
+    column-gap: 100px;
+}
+
+h2 {
+    font-size: medium;
+}
+
+.list_style_remove {
+    font-size: medium;
+}  
+
+.hebergements__left__title {
+    margin-left: 10px;
+}
+
+.txt {
+    width: 16%;
+}
+
+.buttonsearch {
+    padding: 15px 16px;
+}
